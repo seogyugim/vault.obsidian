@@ -1,0 +1,8 @@
+
+# 데코레이터?
+
+[데코레이터](obsidian://open?vault=seogyugim.coinone&file=Typescript%2F%EB%8D%B0%EC%BD%94%EB%A0%88%EC%9D%B4%ED%84%B0%20(Decorator)) 문서를 참조해주세요!
+
+
+
+
