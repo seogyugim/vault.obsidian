@@ -1,4 +1,6 @@
-# Hello World
+# Basics
+
+## Hello World
 
 ```dart
 void main() {
@@ -8,19 +10,19 @@ void main() {
 dart run main.dart
 ```
 
-# The Var keyword
+## The Var keyword
 
 ```dart
 void main() {
 	// Compiler automatically infers type of value
 	var name = 'seogyugim';
 
-	// Declare obviously type of value 
+	// Declare obviously type of value
 	String strname = 'seogyugim';
 }
 ```
 
-# Dynamic Type
+## Dynamic Type
 
 ```dart
 void main() {
@@ -35,7 +37,7 @@ void main() {
 }
 ```
 
-# Null Safety
+## Null Safety
 
 ```dart
 bool isEmpty(String s) => s.length == 0;
@@ -67,7 +69,7 @@ void main() {
 }
 ```
 
-# Final
+## Final
 
 ```dart
 void main() {
@@ -76,7 +78,7 @@ void main() {
 }
 ```
 
-# Late Variables
+## Late Variables
 
 ```dart
 void main() {
@@ -89,7 +91,7 @@ void main() {
 }
 ```
 
-# Constant Variables
+## Constant Variables
 
 ```dart
 void main() {
