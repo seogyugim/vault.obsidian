@@ -58,8 +58,9 @@
 
 ## Backend
 
-1. [NestJS, Cache-Manager v5 사용시 문제 해결법](./Backend/3.md)
-2. [NestJS Dynamic Module 주의점](./Backend/2.md)
+1. [NestJS, Cache-Manager v5 사용시 문제 해결법](./Backend/nestjs-cache-manager-v5-problem.md)
+2. [NestJS Dynamic Module 주의점](./Backend/nestjs-dyn-mod-warn.md)
+3. [데코레이터를 이용한 Nest.js에서의 AOP 적용](./Backend/aop-using-decorators.md)
 
 ## Languages
 
@@ -71,7 +72,7 @@
 
 ### Rust
 
-1. [Rust에서 OS CPU 갯수 찾기](./Languages/Rust/1.md)
+1. [Rust에서 OS CPU 갯수 찾기](./Languages/Rust/how-to-get-num-os-cpu.md)
 
 ### Dart
 
