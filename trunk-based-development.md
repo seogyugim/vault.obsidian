@@ -25,7 +25,7 @@ package.json의 버전을 적극적으로 사용하는게 어떨까 싶다. semv
 ```ts
 const version = process.env.npm_package_version || ''
 
-if (version.startsWith('v2.5')) {
+if (version.startsWith('2.5')) {
     someCode();
 }
 ...
