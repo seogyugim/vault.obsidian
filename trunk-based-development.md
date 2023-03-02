@@ -27,10 +27,14 @@ package.json의 버전을 적극적으로 사용하는게 어떨까 싶다. semv
 아래는 v2.5.x 릴리즈를 하는 경우의 예시이다
 
 ```ts
-const version = process.env.npm_package_version || ''
+const version = process.env.npm_package_version || '100'
 
 if (version.startsWith('2.5')) {
-    someCode();
+   someCode();
+}
+
+if (Number(version) > 2.5) {
+   runAnotherCode();
 }
 ...
 
