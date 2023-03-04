@@ -13,3 +13,4 @@
 9. [Algorithms and Data Structures Tutorial - Full Course for Beginners](https://youtu.be/8hly31xKli0)
 10. [Data Structures - Full Course Using C and C++](https://youtu.be/B31LgI4Y4DQ)
 11. [Linear Algebra - Full College Course](https://youtu.be/JnTa9XtvmfI)
+12. [Flutter Course for Beginners – 37-hour Cross Platform App Development Tutorial](https://youtu.be/VPvVD8t02U8)
