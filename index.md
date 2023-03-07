@@ -54,6 +54,7 @@
 1. [데코레이터란?](./Languages/Typescript/decorators.md)
 2. [Enum 대신 사용할 수 있는 as const](./Languages/Typescript/enum-or-as-const.md)
 3. [Mocha의 NODE_ENV](./Languages/Typescript/mocha-node-env.md)
+4. [데코레이터 in TS 5.0](./Languages/Typescript/5.0-rc.md)
 
 ### Rust
 
