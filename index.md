@@ -66,6 +66,4 @@
 
 ## Memo
 
-1. [2022](./Memo/2022.md)
-2. [2023](./Memo/2023.md)
-3. [Useful Links](./Memo/useful-links.md)
+1. [Useful Links](./Memo/useful-links.md)
